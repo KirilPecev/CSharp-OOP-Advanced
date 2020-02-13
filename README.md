@@ -1,4 +1,4 @@
-# CSharp-OOP-Advanced
-Exercises from SoftUni 
+# CSharp-OOP-Advanced Course - SoftUni
+Exercises 
 # Built With
 .NET Core
