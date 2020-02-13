@@ -1,2 +1,4 @@
 # CSharp-OOP-Advanced
-C# Fundamentals
+Exercises from SoftUni 
+# Built With
+.NET Core
